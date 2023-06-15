@@ -1,6 +1,6 @@
 {
     "name": {
-        "ar": "my first theme a",
+        "ar": "متجري الأول",
         "en": "my first theme a"
     },
     "repository": "https://github.com/eslamD7/my-first-theme-a",
@@ -386,7 +386,7 @@
                                     "value": "blog_categories"
                                 },
                                 {
-                                    "label": "التخفيضات",
+                                    "label": "تحفيظ",
                                     "key": "offers_link",
                                     "value": "offers_link"
                                 },
@@ -571,7 +571,7 @@
                             "value": "blog_categories"
                         },
                         {
-                            "label": "التخفيضات",
+                            "label": "تحفيظ",
                             "key": "offers_link",
                             "value": "offers_link"
                         },
@@ -675,7 +675,7 @@
                                     "value": "blog_categories"
                                 },
                                 {
-                                    "label": "التخفيضات",
+                                    "label": "تحفيظ",
                                     "key": "offers_link",
                                     "value": "offers_link"
                                 },
